@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "rolling-spider": "git://github.com/voodootikigod/node-rolling-spider.git",
-    "dualshock-controller": "~0.6.7"
+    "dualshock-controller": "~0.6.7",
+    "temporal": "~0.4.0"
   },
   "devDependencies": {},
   "repository": {
