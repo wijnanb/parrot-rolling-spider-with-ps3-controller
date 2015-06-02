@@ -18,7 +18,8 @@
     "url": "https://github.com/wijnanb/parrot-rolling-spider-with-ps3-controller/issues"
   },
   "dependencies": {
-    "rolling-spider": "git://github.com/voodootikigod/node-rolling-spider.git"
+    "rolling-spider": "git://github.com/voodootikigod/node-rolling-spider.git",
+    "dualshock-controller": "~0.6.7"
   },
   "devDependencies": {},
   "repository": {
