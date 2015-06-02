@@ -1,0 +1,35 @@
+{
+  "name": "parrot-rolling-spider-with-ps3-controller",
+  "version": "0.0.1",
+  "description": "A script for controlling a Parrot Rolling Spider drone with a PS3 controller on a mac",
+  "author": {
+    "name": "Bert Wijnants",
+    "email": "bert.wijnants@gmail.com",
+    "web": "http://newpage.be/"
+  },
+  "maintainers": [
+    {
+      "name": "Bert Wijnants",
+      "email": "bert.wijnants@gmail.com",
+      "web": "http://newpage.be/"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/wijnanb/parrot-rolling-spider-with-ps3-controller/issues"
+  },
+  "dependencies": {
+    "rolling-spider": "git://github.com/voodootikigod/node-rolling-spider.git"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wijnanb/parrot-rolling-spider-with-ps3-controller.git"
+  },
+  "license": {
+    "name": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  },
+  "os": [
+    "darwin"
+  ]
+}
